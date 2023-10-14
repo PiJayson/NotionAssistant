@@ -1,5 +1,5 @@
 from abc import ABC, abstractmethod
-from src.utils.I_database import IDatabase
+from utils.I_database import IDatabase
 
 class INotionDatabase(IDatabase):
     @abstractmethod
