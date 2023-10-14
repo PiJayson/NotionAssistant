@@ -1,0 +1,8 @@
+.env
+myenv/
+src/rest/__pycache__
+src/utils/__pycache__
+src/ui/__pycache__
+tests/rest/__pycache__/
+tests/utils/__pycache__/
+secrets
